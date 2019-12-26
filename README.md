@@ -3,7 +3,8 @@
 This is a simple egg timer for android.
 
 ### Screenshot: 
-![A screenshot of my app](screenshot.jpg)
+
+<img src="screenshot.jpg" alt="A screenshot of my app" width="40%" />
 
 ## Change this
   If you want to use this app, change this.
